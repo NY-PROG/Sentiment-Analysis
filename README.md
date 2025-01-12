@@ -14,7 +14,7 @@ Dataset
     Labels:
     1: Positive review
     0: Negative review
-    80% training data/20% testing data
+    80% training data/20% test data
 
     Recent Reviews (100 samples):
     Unlabeled English customer reviews (text only) for prediction
